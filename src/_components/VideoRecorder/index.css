@@ -1,0 +1,19 @@
+.gc__class-video_recorder_container {
+  margin: 0 28%;
+  max-width: 99.8rem;
+  padding: 0;
+}
+
+.gc__class-video_player{
+  width: 50%;
+  margin: auto;
+}
+
+#gc__id-video_stream {
+  width: 100%;
+}
+
+.gc__class-video_recorder_buttons_container {
+  width: 50%;
+  margin: auto;
+}
